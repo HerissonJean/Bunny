@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Coelhos</string>
+    <string name="coelhos">Coelhos</string>
+    <string name="nome">Nome</string>
+    <string name="age">Idade</string>
+
+</resources>
